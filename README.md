@@ -16,3 +16,7 @@
 2.4 - Binding de atributos - diretiva v-bind ([template-v4.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/template-v4.html))
 
 2.5 - Binding de atributos - diretiva v-once ([template-v4.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/template-v5.html))
+
+2.6 - Exibir HTML puro - diretiva v-html ([template-v4.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/template-v6.html))
+
+2.7 - Escutar evento de click ([eventos-v1.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/eventos-v1.html))
