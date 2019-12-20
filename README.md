@@ -1,2 +1,3 @@
 # learning-vue
-Repository to save vue lessons
+Repository to save my vue lessons.
+Initial level: beginning 
