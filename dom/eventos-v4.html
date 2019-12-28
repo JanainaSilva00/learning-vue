@@ -1,8 +1,12 @@
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <div id="app">
     <p>{{ contador }}</p>
-    <button v-on:click="somar(3, $event)">Somar</button>
-    <p v-on:mousemove="coordenadas">Mouse: {{ x }} e {{ y }}</p>
+    <button v-on:click="somar(3)">Somar</button>
+    <p v-on:mousemove="coordenadas">
+        Mouse: {{ x }} e {{ y }}
+        <span v-on:mousemove.stop="">Parar aqui</span>
+    </p>
+    <a v-on:click.prevent="" href="https://google.com">Google</a>
 </div>
 
 <script>
@@ -14,13 +18,15 @@
             y: 0
         },
         methods: {
-            somar(inc, event) {
-                console.log(event)
+            somar(inc) {
                 this.contador += inc
             },
             coordenadas(e) {
                 this.x = e.clientX
                 this.y = e.clientY
+            },
+            parar(e) {
+                e.stopPropagation()
             }
         }
     });

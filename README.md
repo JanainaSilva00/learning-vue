@@ -20,3 +20,12 @@
 2.6 - Exibir HTML puro - diretiva v-html ([template-v4.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/template-v6.html))
 
 2.7 - Escutar evento de click ([eventos-v1.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/eventos-v1.html))
+
+2.8 - Escutar evento mousemove ([eventos-v2.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/eventos-v2.html))
+
+2.9 - Passar parametros ao escutar eventos([eventos-v3.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/eventos-v3.html))
+
+2.10 - Modificar eventos - parar chamada de evento ([eventos-v4.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/eventos-v4.html))
+
+2.11 - Modificar eventos - adicionar condições a chamada de eventos de acordo com o teclado ([eventos-v5.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/eventos-v5.html))
+
