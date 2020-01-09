@@ -29,3 +29,20 @@
 
 2.11 - Modificar eventos - adicionar condições a chamada de eventos de acordo com o teclado ([eventos-v5.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/eventos-v5.html))
 
+2.12 - Propriedades Reativas - v-model ([propriedades-reativas-v1.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/propriedades-reativas-v1.html))
+
+2.13 - Propriedades Reativas - computed ([propriedades-reativas-v2.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/propriedades-reativas-v2.html))
+
+2.14 - Propriedades Reativas - watch ([propriedades-reativas-v3.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/propriedades-reativas-v3.html))
+
+2.15 - Interpolação ([interpolacao.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/interpolacao.html))
+
+2.16 - Sintaxe Reduzida - shorthands ([interpolacao.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/sintaxe-reduzida.html))
+ 
+2.17 - Estilo dinâmico e classe CSS - :class ([estilo-v1.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/estilo-v1.html))
+
+2.18 - Estilo dinâmico e classe CSS - :class + computed ([estilo-v1.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/estilo-v2.html))
+
+2.19 - Estilo dinâmico e classe CSS - :class + array ([estilo-v1.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/estilo-v3.html))
+
+2.20 - Estilo dinâmico e classe CSS - :style ([estilo-v4.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/estilo-v4.html))

@@ -1,14 +1,18 @@
 new Vue({
     el: '#desafio',
     data: {
-        valor: ''
-    }, 
-    methods: {
-        exibirAlerta() {
-            alert("Clique recebido com sucesso!")
-        },
-        armazenarValor(e) {
-            this.valor = e.target.value
+        valor: 0
+    },
+    computed: {
+        resultado() {
+            return this.valor != 37 ? 'Valor Diferente' : 'Valor Igual'            
+        }
+    },
+    watch: {
+        resultado() {
+            setTimeout(() => {
+                this.valor = 0
+            }, 5000)
         }
     }
-})
+});
