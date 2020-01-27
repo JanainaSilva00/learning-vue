@@ -46,3 +46,7 @@
 2.19 - Estilo dinâmico e classe CSS - :class + array ([estilo-v1.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/estilo-v3.html))
 
 2.20 - Estilo dinâmico e classe CSS - :style ([estilo-v4.html](https://github.com/JanainaSilva00/learning-vue/blob/master/dom/estilo-v4.html))
+
+Exercicios do modulo - ([exercicios](https://github.com/JanainaSilva00/learning-vue/tree/master/dom/exercicios))
+
+### 2. [Condicionais & Listas](https://github.com/JanainaSilva00/learning-vue/tree/master/condicionais_e_listas)
